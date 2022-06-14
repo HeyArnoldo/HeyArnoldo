@@ -2,11 +2,14 @@
 
 #### 🔧 Lenguajes:
 - JavaScript
+- Python
+- Shell
+- CSS
 
 ### 👑 Proyectos:
-- Eternal Killers *(Discord Bot)* - [Proyecto GitHub](https://github.com/HeyArnoldo/eternalkillers-discord-bot)
-- AlQaeda Faction *(Private Bot)* 
-
+- Eternal Killers *(Discord Bot)*
+- AlQaeda Faction *(Private Discord Bot)* 
+- [InfireMC](https://github.com/infiremc)
 <br>
 <a href="https://github.com/HeyArnoldo">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyArnoldo&langs_count=3&theme=dark">
