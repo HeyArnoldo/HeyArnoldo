@@ -3,8 +3,7 @@
 #### 🔧 Lenguajes:
 - JavaScript
 - Python
-- Shell
-- CSS
+- Bash
 
 ### 👑 Proyectos:
 - Eternal Killers *(Discord Bot)*
