@@ -7,7 +7,6 @@
 
 ### 👑 Proyectos:
 - Eternal Killers *(Discord Bot)*
-- AlQaeda Faction *(Private Discord Bot)* 
 - [InfireMC](https://github.com/infiremc)
 <br>
 <a href="https://github.com/HeyArnoldo">
