@@ -81,19 +81,6 @@ Clean architecture, performance and UX: I care about every pixel and every milli
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyArnoldo&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" alt="Streak">
-</p>
-
----
-
 ### 💬 Let's talk
 
 If you're building in production and want to talk about **agents, ERPs or self-hosted infra** — my inbox is open.
