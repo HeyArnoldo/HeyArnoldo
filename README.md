@@ -88,7 +88,7 @@ If you're building in production and want to talk about **agents, ERPs or self-h
 <p align="center">
   <a href="https://joao.groowtech.com"><img src="https://img.shields.io/badge/joao.groowtech.com-09090b?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/imjoaosouza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:joaosouzareyna@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center"><i>I ship code. Not notebooks.</i></p>
